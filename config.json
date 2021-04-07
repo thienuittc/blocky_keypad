@@ -2,7 +2,7 @@
     "name": "Bàn phím cảm ứng",
     "description": "Mục mở rộng cho bàn phím cảm ứng 12 phím MPR121",
     "libs": [
-        "mpr121.py"
+        "keypad121.py"
     ],
     "blocks": [
         "definition.js"
